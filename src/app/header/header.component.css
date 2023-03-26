@@ -1,24 +1,29 @@
-.toolbar {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 120px;
-    display: flex;
-    align-items: center;
-    background-color: #017e7e;
-    color: white;
-    font-weight: 600;
-  }
+.toolbar{
+  /* position: relative; */
+}
 
-  .toolbar-1{
-   
-  }
+.upper-head{
+  padding-left: 15px;
+  background-color: #045d5d;
+  color: #fff;
+}
 
-  .toolbar-2{
-    background-color: #0f3838;
-     }
+.lower-head{
+  padding: 15px;
+  /* text-align: center; */
+  background-color: #017e7e;
+  color: #fff;
+  height: 75px;  
+}
 
-  /* .example-spacer {
-    flex: 1 1 auto;
-  } */
+.govt-logo{
+  height: 50px;
+  width: 22px;
+}
+
+.nav-ele{
+  float: right;
+}
+
+
+
