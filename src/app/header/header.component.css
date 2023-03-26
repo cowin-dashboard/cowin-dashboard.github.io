@@ -1,0 +1,24 @@
+.toolbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    background-color: #017e7e;
+    color: white;
+    font-weight: 600;
+  }
+
+  .toolbar-1{
+   
+  }
+
+  .toolbar-2{
+    background-color: #0f3838;
+     }
+
+  /* .example-spacer {
+    flex: 1 1 auto;
+  } */
