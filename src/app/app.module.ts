@@ -9,6 +9,8 @@ import {MatToolbarModule} from '@angular/material/toolbar';
 import {MatIconModule} from '@angular/material/icon';
 import { HttpClientModule } from '@angular/common/http';
 import { RegisterSigninComponent } from './register-signin/register-signin.component';
+import { HomeComponent } from './home/home.component';
+import { FooterComponent } from './footer/footer.component';
 
 
 
@@ -17,7 +19,9 @@ import { RegisterSigninComponent } from './register-signin/register-signin.compo
   declarations: [
     AppComponent,
     HeaderComponent,
-    RegisterSigninComponent
+    RegisterSigninComponent,
+    HomeComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,

@@ -1,0 +1,28 @@
+.toolbar{
+    /* position: relative; */
+  }
+  
+  .upper-footer{
+    padding-left: 15px;
+    background-color: #017e7e;
+    color: #fff;
+  }
+  
+  .lower-footer{
+    padding: 15px;
+    /* text-align: center; */
+    background-color: #045d5d;
+    color: #fff;
+    height: 75px;  
+  }
+  
+  .govt-logo{
+    height: 50px;
+    width: 22px;
+  }
+  
+  .footer-ele-left{
+    float: left;
+  }
+
+  
