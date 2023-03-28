@@ -11,6 +11,9 @@ import { HttpClientModule } from '@angular/common/http';
 import { RegisterSigninComponent } from './register-signin/register-signin.component';
 import { HomeComponent } from './home/home.component';
 import { FooterComponent } from './footer/footer.component';
+import { DashboardComponent } from './dashboard/dashboard.component';
+import { FaqsComponent } from './faqs/faqs.component';
+import { AbhaComponent } from './abha/abha.component';
 
 
 
@@ -21,7 +24,10 @@ import { FooterComponent } from './footer/footer.component';
     HeaderComponent,
     RegisterSigninComponent,
     HomeComponent,
-    FooterComponent
+    FooterComponent,
+    DashboardComponent,
+    FaqsComponent,
+    AbhaComponent
   ],
   imports: [
     BrowserModule,
