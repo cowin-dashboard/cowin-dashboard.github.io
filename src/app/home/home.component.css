@@ -1,0 +1,33 @@
+.body-first{
+    background-color: rgb(226, 237, 237);
+}
+
+.body-second{
+    background-color: rgb(32, 133, 133);
+    color: #fff;
+    text-align: center;
+}
+
+.text-1{
+    font-size: 35px;
+    padding-top: 80px;
+    padding-left: 100px;
+    /* text-decoration: solid; */
+    font-weight: bold;
+    /* color: #fff; */
+    line-height: 1.6;
+}
+
+.text-2{
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+.img-map{
+    /* position: relative; */
+    /* height: 50px;
+    width: 40px; */
+}
+
+
+
