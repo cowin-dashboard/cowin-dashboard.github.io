@@ -1,6 +1,4 @@
-.toolbar{
-  /* position: relative; */
-}
+
 
 .upper-head{
   padding-left: 15px;
@@ -23,7 +21,11 @@
 
 .nav-ele{
   float: right;
-  /* padding-top: 4px; */
+}
+
+.nav-link:hover{
+  color: #ffc107 !important;
+  text-shadow: 0 0 3px #FF0000
 }
 
 

@@ -7,7 +7,7 @@ import { HomeComponent } from './home/home.component';
 import { RegisterSigninComponent } from './register-signin/register-signin.component';
 
 const routes: Routes = [
-  { path: 'home', component: HomeComponent },
+  { path: '', component: HomeComponent },
   { path: '', redirectTo: '/home', pathMatch: 'full' },
   { path: 'dashboard', component: DashboardComponent },
   { path: 'abha', component: AbhaComponent },
